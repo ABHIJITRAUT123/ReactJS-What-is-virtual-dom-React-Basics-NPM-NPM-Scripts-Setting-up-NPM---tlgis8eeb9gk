@@ -6,8 +6,9 @@ function App() {
     <>
       <div id="main">
          <p id="para">Hello, I've learnt to use the full-stack evaluation tool. This makes me so happy</p>
+         <button id="click">Click</button>
       </div>
-      <button id="click">Click</button>
+      
     </>
   );
 }
