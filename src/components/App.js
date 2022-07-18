@@ -3,6 +3,9 @@ import "./../styles/App.css";
 
 function App() {
   return (
+    const [component, setComponent] = useState();
+     
+    
     <>
       <div id="main">
          <p id="para">Hello, I've learnt to use the full-stack evaluation tool. This makes me so happy</p>
